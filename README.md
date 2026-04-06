@@ -6,7 +6,7 @@ A full-stack financial tracking application that allows users to categorise tran
 - Python
 - Streamlit
 - SQL
-- FastAPI (if used)
+- FastAPI
 
 ## Features
 - Track and categorise financial transactions
